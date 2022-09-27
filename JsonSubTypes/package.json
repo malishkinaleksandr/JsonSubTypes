@@ -6,7 +6,7 @@
   "unity": "2020.3",
   "documentationUrl": "https://github.com/lucidrealitylabs/JsonSubTypes",
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "2.0"
+    "com.unity.nuget.newtonsoft-json": "2.12"
   },
   "author": {
     "name": "manuc66",
